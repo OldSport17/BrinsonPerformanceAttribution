@@ -99,7 +99,7 @@ def get_jsonparsed_data_multiple(url):
         return []
 
 # --- Tradefeeds Configuration ---
-api_key = "27824f0d4328a1bbbfbd790bd4579ad30d94ea63"  # *** Replace with your actual Tradefeeds API Key ***
+api_key = ""  # *** Replace with your actual Tradefeeds API Key ***
 # ticker = "WINN" 
 #date_from = "2024-02-01"
 #date_to = "2025-01-31"
